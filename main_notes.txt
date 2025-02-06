@@ -1,1 +1,8 @@
-test notes line 1 
+Step 1:
+
+We need to pick as a team what what application to make. We are given these examples;
+- Gaming for students
+- Training for developers
+- Exercise for online marketing officers
+
+We are leaning towards a game for students.
