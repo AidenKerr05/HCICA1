@@ -6,3 +6,4 @@ We need to pick as a team what what application to make. We are given these exam
 - Exercise for online marketing officers
 
 We are leaning towards a game for students.
+Before attemping to design a UI/UX we need think who is going to use the application, who the end users and stakeholders are.
