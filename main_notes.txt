@@ -1,9 +1,13 @@
+LINK: https://365abdn-my.sharepoint.com/:w:/g/personal/u03so24_abdn_ac_uk/EUFAWvx-C-RCg96rDrDkNyEBI5cOJlYvC5TZu8eLrp9BkA?e=IyRe78
+
+
 Step 1:
 
-We need to pick as a team what what application to make. We are given these examples;
+We need to pick as a team what application to make. We are given these examples;
+
 - Gaming for students
 - Training for developers
 - Exercise for online marketing officers
 
 We are leaning towards a game for students.
-Before attemping to design a UI/UX we need think who is going to use the application, who the end users and stakeholders are.
+Before attempting to design a UI/UX we need think who is going to use the application, who the end users and stakeholders are.
